@@ -1,0 +1,25 @@
+
+nav {
+  box-shadow: 0px 0px 1px 0px;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  background-color: #ffff;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  margin-left: 80rem;
+  font-size: 20px;
+}
+ul > li {
+  padding: 0px 30px;
+}
+.nav--img{
+  width: 100px;
+  margin-left: 20px;
+}
